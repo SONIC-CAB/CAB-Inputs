@@ -1,2 +1,2 @@
-# CAB-Inputs
-All inputs from the CAB members
+# SONiC Plugfest details
+Welcome! Please use wiki navigation to learn more. 
